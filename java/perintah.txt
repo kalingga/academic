@@ -1,0 +1,1 @@
+menampilkan nilai genap yang tidak habis dibagi 4
