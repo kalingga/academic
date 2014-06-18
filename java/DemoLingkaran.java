@@ -27,7 +27,7 @@ public class DemoLingkaran extends java.applet.Applet{
     	Lingkaran ling = new Lingkaran(4);
 
 		g.drawString("Luas = " + ling.LuasLingkaran(), 50,25);
-		g.drawString("Keliling = " + ling.KelilingLingkaran(), 50,50);
+		g.drawString("Keliling = " + ling.KelilingLingkaran(), 50,40);
  	}
 
 }
